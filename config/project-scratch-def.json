@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "orgName": "Wmata1",
+=======
+  "orgName": "Wmata-samy",
+>>>>>>> d1fe29435983a74ea6db21e0195e45feea4c65ae
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
